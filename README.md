@@ -1,6 +1,9 @@
 # obsidian-game
 # obsidian-game
-# obsidian-game4
+# obsidian-game5
 
+
+方法
+11
 方法00
 1
