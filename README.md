@@ -2,4 +2,4 @@
 # obsidian-game
 # obsidian-game4
 
-方法
+方法00
