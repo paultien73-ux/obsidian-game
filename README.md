@@ -3,3 +3,4 @@
 # obsidian-game4
 
 方法00
+1
