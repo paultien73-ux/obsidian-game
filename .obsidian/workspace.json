@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/如何做好知识管理.md",
+                "file": "knowledge/汉字的秘密拆解.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "如何做好知识管理"
+              "title": "汉字的秘密拆解"
             }
           },
           {
@@ -199,12 +199,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f1e2f407d4be13d",
+  "active": "0fd4e99973f8b7a8",
   "lastOpenFiles": [
-    "汉字的秘密拆解.md",
+    "knowledge/如何做好知识管理.md",
+    "knowledge/汉字的秘密拆解.md",
     "knowledge/《汉字的秘密》玩法拆解沉淀（脱技术版）.md",
     "knowledge/密室逃脱分层建模：从原语到完整体验.md",
-    "knowledge/如何做好知识管理.md",
     "README.md",
     "knowledge",
     "project"
