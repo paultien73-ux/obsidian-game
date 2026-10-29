@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/汉字的秘密拆解.md",
+                "file": "如何拆解一个游戏.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "汉字的秘密拆解"
+              "title": "如何拆解一个游戏"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实境游戏设计的基本功.md",
+                "file": "knowledge/汉字的秘密拆解.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "实境游戏设计的基本功"
+              "title": "汉字的秘密拆解"
             }
           },
           {
@@ -45,7 +45,8 @@
               "title": "关系图谱"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,10 +215,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f1e2f407d4be13d",
+  "active": "944c2fada748011c",
   "lastOpenFiles": [
-    "实境游戏设计的基本功.md",
+    "如何拆解一个游戏.md",
     "knowledge/汉字的秘密拆解.md",
+    "实境游戏设计的基本功.md",
     "knowledge/如何做好知识管理.md",
     "knowledge/《汉字的秘密》玩法拆解沉淀（脱技术版）.md",
     "knowledge/密室逃脱分层建模：从原语到完整体验.md",
