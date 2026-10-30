@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "《汉字的秘密》玩法拆解沉淀（脱技术版）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -219,10 +219,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "618ce880f207ca93",
+  "active": "99014826c85c1382",
   "lastOpenFiles": [
+    "README.md",
     "《汉字的秘密》玩法拆解沉淀（脱技术版）.md",
-    "密室逃脱分层建模：从原语到完整体验.md",
-    "README.md"
+    "密室逃脱分层建模：从原语到完整体验.md"
   ]
 }
