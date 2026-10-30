@@ -25,14 +25,14 @@
             "id": "99014826c85c1382",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "《汉字的秘密》玩法拆解沉淀（脱技术版）.md",
-                "mode": "preview",
-                "source": false
+                "aFile": ".obsidian/plugins/obsidian-git/data.json",
+                "bFile": ".obsidian/plugins/obsidian-git/data.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "《汉字的秘密》玩法拆解沉淀（脱技术版）"
+              "icon": "diff",
+              "title": "Diff: data.json  (Working Tree)"
             }
           },
           {
@@ -108,8 +108,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,7 +190,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "《汉字的秘密》玩法拆解沉淀（脱技术版）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,9 +197,19 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "0f3592f738b123f4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -221,8 +229,9 @@
   },
   "active": "99014826c85c1382",
   "lastOpenFiles": [
-    "README.md",
+    "未命名.base",
     "《汉字的秘密》玩法拆解沉淀（脱技术版）.md",
+    "README.md",
     "密室逃脱分层建模：从原语到完整体验.md"
   ]
 }
