@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/【方法】如何表达.md",
+                "file": "inbox/🧠 思维方法论：从事物认知到问题解决的核心逻辑.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "【方法】如何表达"
+              "title": "🧠 思维方法论：从事物认知到问题解决的核心逻辑"
             }
           },
           {
@@ -242,15 +242,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b022a4199f6da8d",
+  "active": "0fd4e99973f8b7a8",
   "lastOpenFiles": [
+    "inbox",
+    "knowledge/【方法】如何表达.md",
+    "knowledge/【本质】实境游戏.md",
     "knowledge/【方法】如何拆解一个游戏.md",
-    "🧠 思维方法论：从事物认知到问题解决的核心逻辑.md",
+    "inbox/🧠 思维方法论：从事物认知到问题解决的核心逻辑.md",
     "knowledge/【日志】汉字的秘密拆解.md",
     "project/任务管理.md",
-    "knowledge/【本质】实境游戏.md",
     "knowledge/【方法】如何设计谜题.md",
-    "knowledge/【方法】如何表达.md",
     "未命名.base",
     "Pasted image 20261030110813.png",
     "实境游戏设计的基本功.md",
