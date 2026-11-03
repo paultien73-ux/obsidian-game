@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/【方法】如何打乒乓球.md",
+                "file": "knowledge/【方法】如何设计实境游戏.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "【方法】如何打乒乓球"
+              "title": "【方法】如何设计实境游戏"
             }
           },
           {
@@ -342,8 +342,8 @@
   },
   "active": "5dc325ed75cc6569",
   "lastOpenFiles": [
-    "knowledge/【方法】如何开车.md",
     "knowledge/【方法】如何打乒乓球.md",
+    "knowledge/【方法】如何开车.md",
     "knowledge/【方法】如何健身.md",
     "knowledge/【方法】如何写剧本.md",
     "knowledge/【方法】如何设计实境游戏.md",
