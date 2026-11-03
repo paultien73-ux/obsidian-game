@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "《汉字的秘密》(dGame) 分层拆解与沉淀.md",
+                "file": "inbox/《汉字的秘密》(dGame) 分层拆解与沉淀.md",
                 "mode": "source",
                 "source": false
               },
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【方法】如何健身.md",
+                "file": "knowledge/【方法】如何健身.md",
                 "mode": "source",
                 "source": false
               },
@@ -300,12 +300,14 @@
   },
   "active": "22623a76b2730c0c",
   "lastOpenFiles": [
-    "《汉字的秘密》(dGame) 分层拆解与沉淀.md",
-    "【方法】如何健身.md",
-    "《汉字的秘密》谜题模式总结（抽象层）.md",
-    "《汉字的秘密》实体抽象沉淀.md",
-    "knowledge/《汉字的秘密》玩法拆解沉淀（脱技术版）.md",
-    "knowledge/密室逃脱分层建模：从原语到完整体验.md",
+    "knowledge/【方法】如何设计实境游戏.md",
+    "inbox/《汉字的秘密》(dGame) 分层拆解与沉淀.md",
+    "knowledge/【方法】如何做好知识管理.md",
+    "inbox/密室逃脱分层建模：从原语到完整体验.md",
+    "inbox/《汉字的秘密》玩法拆解沉淀（脱技术版）.md",
+    "knowledge/【方法】如何健身.md",
+    "inbox/《汉字的秘密》谜题模式总结（抽象层）.md",
+    "inbox/《汉字的秘密》实体抽象沉淀.md",
     "project/任务管理.md",
     "inbox/🧠 思维方法论：从事物认知到问题解决的核心逻辑.md",
     "inbox",
@@ -316,10 +318,8 @@
     "knowledge/【方法】如何设计谜题.md",
     "未命名.base",
     "Pasted image 20261030110813.png",
-    "实境游戏设计的基本功.md",
     "【方法】如何拆解一个游戏.md",
     "【方法】如何设计谜题.md",
-    "knowledge/如何做好知识管理.md",
     "README.md",
     "knowledge",
     "project"
