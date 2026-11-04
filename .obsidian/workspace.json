@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "如何拆解一个游戏.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "如何拆解一个游戏"
-            }
-          },
-          {
-            "id": "944c2fada748011c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "knowledge/【日志】汉字的秘密拆解.md",
                 "mode": "source",
                 "source": false
@@ -36,87 +22,49 @@
             }
           },
           {
-            "id": "3b022a4199f6da8d",
+            "id": "535e93942458a081",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/《汉字的秘密》玩法拆解沉淀（脱技术版）.md",
+                "file": "project/任务管理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "《汉字的秘密》玩法拆解沉淀（脱技术版）"
+              "title": "任务管理"
             }
           },
           {
-            "id": "645dac9deb646756",
+            "id": "f0fa80380fd52c84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "《汉字的秘密》实体抽象沉淀.md",
+                "file": "实境游戏设计的基本功.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "《汉字的秘密》实体抽象沉淀"
+              "title": "实境游戏设计的基本功"
             }
           },
           {
-            "id": "5f8aa7a74baa8535",
+            "id": "c15a078266e092a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "《汉字的秘密》谜题模式总结（抽象层）.md",
+                "file": "project/任务管理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "《汉字的秘密》谜题模式总结（抽象层）"
-            }
-          },
-          {
-            "id": "1d627af687c08931",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "《汉字的秘密》(dGame) 分层拆解与沉淀.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "《汉字的秘密》(dGame) 分层拆解与沉淀"
-            }
-          },
-          {
-            "id": "5415fe94fadf8021",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【方法】如何设计谜题.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "【方法】如何设计谜题"
-            }
-          },
-          {
-            "id": "411fc756c58d12f1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "title": "任务管理"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#谜题类别/数学算式",
+                "query": "tag:#bb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.16796875
+    "width": 300
   },
   "right": {
     "id": "5ad000c5b6e7795e",
@@ -194,8 +142,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
-                "collapseAll": false,
+                "file": "《汉字的秘密》玩法拆解沉淀（脱技术版）.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -213,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "《汉字的秘密》玩法拆解沉淀（脱技术版）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -256,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "project/任务管理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -264,13 +212,23 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "0f3592f738b123f4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -284,29 +242,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d627af687c08931",
+  "active": "c15a078266e092a6",
   "lastOpenFiles": [
     "《汉字的秘密》谜题模式总结（抽象层）.md",
-    "《汉字的秘密》(dGame) 分层拆解与沉淀.md",
     "《汉字的秘密》实体抽象沉淀.md",
-    "knowledge/《汉字的秘密》玩法拆解沉淀（脱技术版）.md",
-    "knowledge/密室逃脱分层建模：从原语到完整体验.md",
-    "project/任务管理.md",
+    "《汉字的秘密》(dGame) 分层拆解与沉淀.md",
     "inbox/🧠 思维方法论：从事物认知到问题解决的核心逻辑.md",
     "inbox",
-    "knowledge/【方法】如何表达.md",
     "knowledge/【本质】实境游戏.md",
-    "knowledge/【方法】如何拆解一个游戏.md",
-    "knowledge/【日志】汉字的秘密拆解.md",
-    "knowledge/【方法】如何设计谜题.md",
-    "未命名.base",
-    "Pasted image 20261030110813.png",
+    "knowledge/【方法】如何表达.md",
     "实境游戏设计的基本功.md",
-    "【方法】如何拆解一个游戏.md",
-    "【方法】如何设计谜题.md",
-    "knowledge/如何做好知识管理.md",
+    "knowledge/《汉字的秘密》玩法拆解沉淀（脱技术版）.md",
+    "未命名 1.base",
+    "未命名.base",
+    "knowledge/【方法】如何拆解一个游戏.md",
+    "project/任务管理.md",
+    "knowledge/【日志】汉字的秘密拆解.md",
+    "project",
     "README.md",
+    "knowledge/【方法】如何设计谜题.md",
+    "Pasted image 20261030110813.png",
+    "knowledge/密室逃脱分层建模：从原语到完整体验.md",
+    "knowledge/如何做好知识管理.md",
     "knowledge",
-    "project"
+    "《汉字的秘密》玩法拆解沉淀（脱技术版）.md",
+    "密室逃脱分层建模：从原语到完整体验.md"
   ]
 }
