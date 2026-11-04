@@ -41,31 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实境游戏设计的基本功.md",
+                "file": "project/任务管理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "实境游戏设计的基本功"
-            }
-          },
-          {
-            "id": "c15a078266e092a6",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Index)"
+              "title": "任务管理"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -243,8 +228,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c15a078266e092a6",
+  "active": "f0fa80380fd52c84",
   "lastOpenFiles": [
+    "project/里程碑.md",
     "project/任务管理.md",
     "knowledge/【概念】实境游戏.md",
     "knowledge/【方法】如何设计实境游戏.md",
@@ -274,7 +260,6 @@
     "knowledge/【日志】汉字的秘密拆解.md",
     "project",
     "README.md",
-    "knowledge/【方法】如何设计谜题.md",
     "Pasted image 20261030110813.png",
     "knowledge"
   ]
