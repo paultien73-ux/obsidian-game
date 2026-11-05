@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/【方法】如何开车.md",
+                "file": "knowledge/【概念】实境游戏.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "【方法】如何开车"
+              "title": "【概念】实境游戏"
             }
           },
           {
@@ -220,7 +220,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#谜题类别/数学算式",
+                "query": "[\"aliases\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -264,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "knowledge/【概念】实境游戏.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -326,21 +326,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
-                "followCursor": false,
+                "file": "knowledge/【概念】实境游戏.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "afde1737d771f985",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -356,14 +366,17 @@
   },
   "active": "05d1aee8501f4953",
   "lastOpenFiles": [
-    "knowledge/【方法】如何将脑子里某个领域碎片化的知识形成体系.md",
+    "knowledge/【方法】如何设计谜题.md",
+    "knowledge/【方法】如何写剧本.md",
+    "未命名.canvas",
+    "knowledge/【基本功】实境游戏.md",
+    "knowledge/【方法】如何设计实境游戏.md",
     "knowledge/【概念】实境游戏.md",
     "knowledge/【日志】汉字的秘密拆解.md",
-    "knowledge/【方法】如何设计实境游戏.md",
-    "knowledge/【方法】如何打乒乓球.md",
     "knowledge/【方法】如何开车.md",
+    "knowledge/【方法】如何将脑子里某个领域碎片化的知识形成体系.md",
+    "knowledge/【方法】如何打乒乓球.md",
     "knowledge/【方法】如何健身.md",
-    "knowledge/【方法】如何写剧本.md",
     "inbox/《汉字的秘密》(dGame) 分层拆解与沉淀.md",
     "knowledge/【方法】如何做好知识管理.md",
     "inbox/密室逃脱分层建模：从原语到完整体验.md",
@@ -375,7 +388,6 @@
     "inbox",
     "knowledge/【方法】如何表达.md",
     "knowledge/【方法】如何拆解一个游戏.md",
-    "knowledge/【方法】如何设计谜题.md",
     "未命名.base",
     "Pasted image 20261030110813.png",
     "【方法】如何拆解一个游戏.md",
