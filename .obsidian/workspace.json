@@ -192,7 +192,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -312,7 +313,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fede2281c9713f53",
+  "active": "35d8d20894063954",
   "lastOpenFiles": [
     "knowledge/【概念】实境游戏.md",
     "knowledge/【方法】如何开车.md",
