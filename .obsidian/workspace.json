@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "《汉字的秘密》谜题模式总结（抽象层）.md",
+                "file": "inbox/《汉字的秘密》谜题模式总结（抽象层）.md",
                 "mode": "source",
                 "source": false
               },
@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -197,7 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.16796875
+    "width": 346.83203125
   },
   "right": {
     "id": "5ad000c5b6e7795e",
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/【基本功】实境游戏.md",
+                "file": "inbox/《汉字的秘密》谜题模式总结（抽象层）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +275,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/【基本功】实境游戏.md",
+                "file": "inbox/《汉字的秘密》谜题模式总结（抽象层）.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -313,20 +313,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35d8d20894063954",
+  "active": "5f8aa7a74baa8535",
   "lastOpenFiles": [
+    "knowledge/【拆解】汉字的秘密拆解.md",
+    "knowledge/【方法】如何健身.md",
+    "knowledge/【基本功】实境游戏.md",
     "knowledge/【概念】实境游戏.md",
     "knowledge/【方法】如何开车.md",
     "project/里程碑.md",
     "knowledge/【方法】如何设计谜题.md",
     "knowledge/【方法】如何写剧本.md",
     "未命名.canvas",
-    "knowledge/【基本功】实境游戏.md",
     "knowledge/【方法】如何设计实境游戏.md",
-    "knowledge/【日志】汉字的秘密拆解.md",
     "knowledge/【方法】如何将脑子里某个领域碎片化的知识形成体系.md",
     "knowledge/【方法】如何打乒乓球.md",
-    "knowledge/【方法】如何健身.md",
     "inbox/《汉字的秘密》(dGame) 分层拆解与沉淀.md",
     "knowledge/【方法】如何做好知识管理.md",
     "inbox/密室逃脱分层建模：从原语到完整体验.md",
