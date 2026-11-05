@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/《汉字的秘密》谜题模式总结（抽象层）.md",
+                "file": "inbox/《汉字的秘密》实体抽象沉淀.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "《汉字的秘密》谜题模式总结（抽象层）"
+              "title": "《汉字的秘密》实体抽象沉淀"
             }
           },
           {
@@ -168,7 +168,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"aliases\"]",
+                "query": "tag:#柜子",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/《汉字的秘密》谜题模式总结（抽象层）.md",
+                "file": "inbox/《汉字的秘密》实体抽象沉淀.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +274,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/《汉字的秘密》谜题模式总结（抽象层）.md",
+                "file": "inbox/《汉字的秘密》实体抽象沉淀.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -312,31 +312,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bde7976fc52d9f05",
+  "active": "5f8aa7a74baa8535",
   "lastOpenFiles": [
-    "knowledge/【方法】如何设计实境游戏.md",
-    "knowledge/【方法】如何表达.md",
     "inbox/《汉字的秘密》谜题模式总结（抽象层）.md",
     "knowledge/【拆解】汉字的秘密拆解.md",
+    "knowledge/【方法】如何表达.md",
+    "knowledge/【方法】如何拆解一个游戏.md",
+    "knowledge/【方法】如何将脑子里某个领域碎片化的知识形成体系.md",
+    "knowledge/【方法】如何设计谜题.md",
+    "knowledge/【方法】如何做好知识管理.md",
+    "knowledge/【方法】如何写剧本.md",
+    "knowledge/【方法】如何设计实境游戏.md",
+    "knowledge/【方法】如何开车.md",
+    "knowledge/【方法】如何打乒乓球.md",
+    "inbox/《汉字的秘密》实体抽象沉淀.md",
+    "Pasted image 20261105234251.png",
     "knowledge/【方法】如何健身.md",
     "knowledge/【基本功】实境游戏.md",
     "knowledge/【概念】实境游戏.md",
-    "knowledge/【方法】如何开车.md",
     "project/里程碑.md",
-    "knowledge/【方法】如何设计谜题.md",
-    "knowledge/【方法】如何写剧本.md",
     "未命名.canvas",
-    "knowledge/【方法】如何将脑子里某个领域碎片化的知识形成体系.md",
-    "knowledge/【方法】如何打乒乓球.md",
     "inbox/《汉字的秘密》(dGame) 分层拆解与沉淀.md",
-    "knowledge/【方法】如何做好知识管理.md",
     "inbox/密室逃脱分层建模：从原语到完整体验.md",
     "inbox/《汉字的秘密》玩法拆解沉淀（脱技术版）.md",
-    "inbox/《汉字的秘密》实体抽象沉淀.md",
     "project/任务管理.md",
     "inbox/🧠 思维方法论：从事物认知到问题解决的核心逻辑.md",
     "inbox",
-    "knowledge/【方法】如何拆解一个游戏.md",
     "未命名.base",
     "Pasted image 20261030110813.png",
     "【方法】如何拆解一个游戏.md",
