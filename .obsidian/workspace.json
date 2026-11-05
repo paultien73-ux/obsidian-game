@@ -137,14 +137,15 @@
             "id": "5dc325ed75cc6569",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "knowledge/【日志】汉字的秘密拆解.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "【日志】汉字的秘密拆解"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Index)"
             }
           }
         ],
@@ -324,7 +325,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "afde1737d771f985",
+  "active": "5dc325ed75cc6569",
   "lastOpenFiles": [
     "knowledge/【概念】实境游戏.md",
     "project/里程碑.md",
