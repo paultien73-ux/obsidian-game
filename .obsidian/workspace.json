@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "57b4fb93e7ca22b7",
+        "id": "f1ae6259a12a7d5b",
         "type": "tabs",
         "children": [
           {
-            "id": "6f1e2f407d4be13d",
+            "id": "545fb34548f1b7f2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f1e2f407d4be13d",
+  "active": "545fb34548f1b7f2",
   "lastOpenFiles": [
     "knowledge/【拆解】汉字的秘密拆解.md",
     "knowledge/【方法】如何拆解一个游戏.md",
