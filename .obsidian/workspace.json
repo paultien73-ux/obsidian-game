@@ -4,20 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "f1ae6259a12a7d5b",
+        "id": "57b4fb93e7ca22b7",
         "type": "tabs",
         "children": [
           {
-            "id": "545fb34548f1b7f2",
+            "id": "6f1e2f407d4be13d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/【日志】汉字的秘密拆解.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "【日志】汉字的秘密拆解"
+            }
+          },
+          {
+            "id": "535e93942458a081",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/【拆解】汉字的秘密拆解.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "【拆解】汉字的秘密拆解"
+            }
+          },
+          {
+            "id": "4787989b5a908e37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/《汉字的秘密》18 关全量拆解汇总（关卡分册）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "《汉字的秘密》18 关全量拆解汇总（关卡分册）"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,11 +228,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "545fb34548f1b7f2",
+  "active": "0fd4e99973f8b7a8",
   "lastOpenFiles": [
     "knowledge/【拆解】汉字的秘密拆解.md",
+    "inbox/《汉字的秘密》18 关全量拆解汇总（关卡分册）.md",
     "knowledge/【方法】如何拆解一个游戏.md",
-    "inbox/🧠 思维方法论：从事物认知到问题解决的核心逻辑.md",
     "project/任务管理.md",
     "knowledge/【概念】领域驱动设计.md",
     "knowledge/【日志】汉字的秘密拆解.md",
@@ -222,9 +255,9 @@
     "《汉字的秘密》谜题模式总结（抽象层）.md",
     "《汉字的秘密》实体抽象沉淀.md",
     "《汉字的秘密》(dGame) 分层拆解与沉淀.md",
+    "inbox/🧠 思维方法论：从事物认知到问题解决的核心逻辑.md",
     "inbox",
     "knowledge/【本质】实境游戏.md",
-    "knowledge/【方法】如何表达.md",
     "未命名 1.base",
     "未命名.base",
     "project",
