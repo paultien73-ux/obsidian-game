@@ -11,14 +11,10 @@
             "id": "6f1e2f407d4be13d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/【日志】汉字的秘密拆解.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "【日志】汉字的秘密拆解"
+              "title": "新标签页"
             }
           },
           {
@@ -84,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#bb",
+                "query": "tag:#基本功",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +104,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -230,8 +227,9 @@
   },
   "active": "4787989b5a908e37",
   "lastOpenFiles": [
-    "inbox/《汉字的秘密》18 关全量拆解汇总（关卡分册）.md",
     "knowledge/【拆解】汉字的秘密拆解.md",
+    "knowledge/【方法】如何打乒乓球.md",
+    "inbox/《汉字的秘密》18 关全量拆解汇总（关卡分册）.md",
     "knowledge/【方法】如何拆解一个游戏.md",
     "project/任务管理.md",
     "knowledge/【概念】领域驱动设计.md",
@@ -241,7 +239,6 @@
     "project/里程碑.md",
     "knowledge/【概念】实境游戏.md",
     "knowledge/【方法】如何设计实境游戏.md",
-    "knowledge/【方法】如何打乒乓球.md",
     "knowledge/【方法】如何开车.md",
     "knowledge/【方法】如何将脑子里某个领域碎片化的知识形成体系.md",
     "knowledge/【方法】如何写剧本.md",
